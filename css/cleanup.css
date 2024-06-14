@@ -1,1 +1,22 @@
 /* write your override styles here */
+/* write your override styles here */
+
+/* deletes tag 1 */
+#wall .tag-1 {
+  display: none;
+}
+
+/* deletes tag 2 */
+body #wall #tag-2 {
+  display: none;
+}
+
+/* deletes tag 3 */
+body div#wall #tag-3.slick {
+  display: none;;
+}
+
+/* deletes tag 4 */
+ #wall div {
+display: none;
+} 
